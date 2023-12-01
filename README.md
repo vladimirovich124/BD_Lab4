@@ -2,6 +2,18 @@
 
 This project is a practical workshop for Apache Hive, guiding you through setting up Hadoop, Hive, loading data into Hadoop HDFS, and executing queries. The goal is to find the top 5 airlines with the greatest average DEPARTURE_DELAY.
 
+## Special attention
+
+I was unable to upload the dataset here, so before starting the project, download the dataset from the Kaggle website
+
+https://www.kaggle.com/datasets/usdot/flight-delays
+
+or via the link:
+
+* (https://drive.google.com/file/d/1bHBFvkoPMj3MMNfJRh2rZVYXXWJaiCSc/view?usp=drive_link)
+
+Next, move this dataset to the directory with this project.
+
 ## Prerequisites
 
 - [Docker](https://www.docker.com/) installed
