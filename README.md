@@ -6,7 +6,7 @@ This project is a practical workshop for Apache Hive, guiding you through settin
 
 I was unable to upload the dataset here, so before starting the project, download the dataset from the Kaggle website
 
-https://www.kaggle.com/datasets/usdot/flight-delays
+* (https://www.kaggle.com/datasets/usdot/flight-delays)
 
 or via the link:
 
